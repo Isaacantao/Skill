@@ -1,0 +1,14 @@
+
+body {background-color:#DEEDF0;}
+hr {
+border-style:none;
+border-top-style: dotted;
+border-color:grey;
+border-width:4px;
+width:10%;}
+h3 {color:#39A6A3;}
+h1 {color:#39A6A3 ;}
+img {border-radius: 100%;
+border-color: black;
+border-style: solid;
+background-color: blue;}
